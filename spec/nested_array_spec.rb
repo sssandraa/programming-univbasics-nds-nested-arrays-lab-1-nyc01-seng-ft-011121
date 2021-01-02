@@ -15,8 +15,8 @@ describe 'When a learning to perform lookups in nested arrays,' do
     it 'the matrix_lookup method returns the requested value' do
       expect(matrix_lookup(assembled_matrix, 1, 1)).to eq("Potatoes")
     
-    end 
-  end 
+    end
+  end
 end
 
 describe 'When a learning to update cells in nested arrays,' do
