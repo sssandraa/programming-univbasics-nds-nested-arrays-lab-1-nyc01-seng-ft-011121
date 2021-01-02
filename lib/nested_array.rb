@@ -40,7 +40,7 @@ def matrix_lookup(matrix, row, column)
 
 assembled_matrix = [
 conventional = ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
-organic = ["Strawberries","Potatoes", "Avocadoes", "Grapes", "Asparagus"]
+organic = ["Strawberries", "Potatoes", "Avocadoes", "Grapes", "Asparagus"]
 ]
   assembled_matrix[1][1]
   # Given any matrix (array of arrays), a row index and a column index,
